@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/scubasports/static/css/main.9ed09c51.css",
+    "main.js": "/scubasports/static/js/main.9defad37.js",
+    "static/js/787.95071069.chunk.js": "/scubasports/static/js/787.95071069.chunk.js",
+    "static/media/img19.jpg": "/scubasports/static/media/img19.5b25c40e28b55a1a7251.jpg",
+    "static/media/img15.jpg": "/scubasports/static/media/img15.ebc0916206f4dab614ad.jpg",
+    "static/media/img18.jpg": "/scubasports/static/media/img18.ad3759b00afdd552f1e1.jpg",
+    "static/media/img2.jpg": "/scubasports/static/media/img2.dc34e7d3f67c5eedc8b4.jpg",
+    "static/media/img20.jpg": "/scubasports/static/media/img20.978d530766f5cef995c8.jpg",
+    "static/media/img21.jpg": "/scubasports/static/media/img21.27a98cfa15c2c2a12b2a.jpg",
+    "static/media/img8.jpg": "/scubasports/static/media/img8.41952b9b1c271aab9296.jpg",
+    "static/media/img17.jpg": "/scubasports/static/media/img17.21276f9be11f41ccbb48.jpg",
+    "static/media/img16.jpg": "/scubasports/static/media/img16.8f44707a75ff6009e987.jpg",
+    "static/media/img1.jpg": "/scubasports/static/media/img1.3ce2ed024d3b071bb250.jpg",
+    "static/media/img5.jpeg": "/scubasports/static/media/img5.372c67fd5fba20d0cc79.jpeg",
+    "static/media/img3.jpg": "/scubasports/static/media/img3.e90b4ac5978dd4ba1f75.jpg",
+    "static/media/img8.jpeg": "/scubasports/static/media/img8.c81aad6b047416f38257.jpeg",
+    "static/media/car1.jpg": "/scubasports/static/media/car1.445692253768273929e4.jpg",
+    "static/media/car3.jpg": "/scubasports/static/media/car3.445692253768273929e4.jpg",
+    "static/media/car2.jpg": "/scubasports/static/media/car2.95f6240f92522a64acad.jpg",
+    "static/media/img32.jpg": "/scubasports/static/media/img32.d25d73d2d3936d6a77f8.jpg",
+    "static/media/img7.jpg": "/scubasports/static/media/img7.394a4b866aa2f3c43918.jpg",
+    "static/media/img9.jpg": "/scubasports/static/media/img9.5480f1860136e6d7ea51.jpg",
+    "static/media/img4.jpg": "/scubasports/static/media/img4.bba787e656a16927039b.jpg",
+    "index.html": "/scubasports/index.html",
+    "main.9ed09c51.css.map": "/scubasports/static/css/main.9ed09c51.css.map",
+    "main.9defad37.js.map": "/scubasports/static/js/main.9defad37.js.map",
+    "787.95071069.chunk.js.map": "/scubasports/static/js/787.95071069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed09c51.css",
+    "static/js/main.9defad37.js"
+  ]
+}
