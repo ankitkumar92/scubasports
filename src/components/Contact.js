@@ -9,9 +9,10 @@ export default function Contact() {
         <p>We provide all kind of water activity and package booking in GOA.</p>
         <p>Our Booking will be on our official booking number , you can book directly through Whatsapp.</p>
         
-        Whatsapp & Call Number : 9330234144
-        <p>Link of Whatsapp.</p>
-        <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">Chat on Whatsapp</a>
+        Whatsapp & Call Number : 9330234144<br/>
+        Mail : contact@scubasports.in
+        <p>Chat on Whatsapp.</p>
+        <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">Chat on Whatsapp</a>
       </div>
     </div>
   )

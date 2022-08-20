@@ -20,6 +20,7 @@ import {Link} from 'react-router-dom'
 
 
 
+
 export default function CustomCard() {
   return (
     <>
@@ -49,6 +50,7 @@ export default function CustomCard() {
                 </CardText>
                 <div >
                 <Link to="/ScubaDive" className="btn btn-primary">More Details</Link>
+
                 </div>
               </CardBody>
             </Card>
@@ -102,7 +104,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 999 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -132,7 +134,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 999 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -157,7 +159,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 150 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -182,7 +184,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 1800 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -213,7 +215,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 150 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -238,7 +240,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 1900 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -266,7 +268,7 @@ export default function CustomCard() {
                   Offer Price : 1900 INR/Person
 
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -296,7 +298,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 150 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -321,7 +323,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 3499 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -346,7 +348,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 3499 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -376,7 +378,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 3499 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -401,7 +403,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 4499 INR/4pax/1day
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>
@@ -426,7 +428,7 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 599 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary">More Details</a>
               </CardBody>
             </Card>
           </div>

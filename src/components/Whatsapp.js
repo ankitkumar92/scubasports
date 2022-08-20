@@ -44,14 +44,14 @@ const Whatsapp = () => {
             <div className="container text-center" style={{ backgroundColor: '#ECF0F1 ' }}>
                 <div className="row g-3">
                     <div className="col-12 col-md-6 ">
-                        <h5 style={{ color: '#000080' }}> Welcome to Goa Scuba Diving </h5>
+                        <h5 style={{ color: '#000080' }}> Welcome to ScubaSports.in </h5>
                         <hr />
 
                         <h3 style={{ color: '#D80E67 ' }}> Goa Scuba Diving & Water Sports.</h3>
                         <hr />
-                        <p style={{ textAlign: 'justify' }}>Goa Scuba diving experience should be on everyone’s list of must-to-do activities in Goa. Goascubadiving is famous for providing one of a kind experience when it comes to water sports and scuba diving in Goa With a depth ranging from 10-15 meters.
+                        <p style={{ textAlign: 'justify' }}>Goa Scuba diving experience should be on everyone’s list of must-to-do activities in Goa. Scubasports is famous for providing one of a kind experience when it comes to water sports and scuba diving in Goa With a depth ranging from 10-15 meters.
 
-                            <br /><br />  At Goascubadiving we thrive to provide the best 1st scuba experience in goa.  we have been here for 5+ years and serve thousands of travellers every season.<br /><br />
+                            <br /><br />  At scubasports we thrive to provide the best 1st scuba experience in goa.  we have been here for 5+ years and serve thousands of travellers every season.<br /><br />
                             <b> Nothing is more enjoyable in Goa. Just Come and enjoy your best day over the Arabian Sea. </b>
                         </p>
                     </div>
@@ -77,7 +77,7 @@ const Whatsapp = () => {
                             <hr />
                             <li>Enjoy Best Day in Goa.</li>
                         </ul>
-                        <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a>
+                        <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a>
 
 
 
@@ -152,9 +152,9 @@ const Whatsapp = () => {
                             </ul>
                             <div>
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
                             </div>
                         </div>
 
@@ -219,9 +219,9 @@ const Whatsapp = () => {
                             </ul>
                             <div>
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
                             </div>
                         </div>
 
@@ -283,9 +283,9 @@ const Whatsapp = () => {
                             </ul>
                             <div>
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
                             </div>
                         </div>
 
@@ -364,9 +364,9 @@ We have a number of water sports equipment with us on board. All Famous Waterspo
                             </ul>
                             <div>
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
                             </div>
                         </div>
 
@@ -430,9 +430,9 @@ We have a number of water sports equipment with us on board. All Famous Waterspo
                             </ul>
                             <div>
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Get more videos and Details on Phone</a><br />
                                 <br />
-                                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
+                                <a href="https://wa.me/9330234144?text=Hi%20%2C%20It's%20great%20to%20know%20about%20Scubasport%20%2C%20can%20you%20send%20me%20more%20details%20about%20your%20package%3F" className="btn btn-primary" style={{ backgroundColor: '#8C0ED8 ' }}>Book Now</a>
                             </div>
                         </div>
 

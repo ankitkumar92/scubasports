@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './components/Home';
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes,  } from "react-router-dom";
 import OtherActivity from './components/OtherActivity';
 import Contact from './components/Contact';
 import About from './components/About';
@@ -17,6 +17,7 @@ const App = () => {
          
 		 <BrowserRouter>
 		 <CustomNavbar/>
+		
 				<Routes>
                      
 					<Route exact path="/" element={<Home/> } />

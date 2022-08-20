@@ -26,8 +26,10 @@ export default function CustomFooter() {
 
   <div className="text-center p-3" >
   Developer : Ankit Kumar<br/>
-    © 2022 Copyright  :
-    <Link className="text-black" to="/"> goascubadiving.com </Link>
+    © 2022 Copyright  : All right reserved <br/>
+    <Link className="text-black" to="/"> scubasports.in </Link><br/>
+    <a href='https://www.termsandconditionsgenerator.com/live.php?token=s1VRyOBiRDtqOVyaB2CEWsy58ubTDDAw' alt='terms and condition'>Terms & Condition</a><br/>
+    Mail : contact@scubasports.in
   </div>
 </footer>
 </>
