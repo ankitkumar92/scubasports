@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -22,21 +24,21 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin: 0px 0px 0px 0px;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+
 .card {
   width: 500px;
   max-width: 100%;
+}
+.container{
+background-position: 0%;
+width: fit-content;
+ 
 }

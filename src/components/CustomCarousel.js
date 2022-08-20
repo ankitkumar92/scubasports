@@ -1,6 +1,6 @@
 import Car1 from "./images/car1.jpg";
 import Car2 from "./images/car2.jpg"
-import Car3 from "./images/car3.jpeg"
+import Car3 from "./images/car3.jpg"
 
 function CustomCarousel() {
   return(

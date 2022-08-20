@@ -16,6 +16,7 @@ import img17 from "./images/img17.jpg"
 import img18 from "./images/img18.jpg"
 import img19 from "./images/img19.jpg"
 import img20 from "./images/img20.jpg"
+import {Link} from 'react-router-dom'
 
 
 
@@ -46,7 +47,9 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 599 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <div >
+                <Link to="/ScubaDive" className="btn btn-primary">More Details</Link>
+                </div>
               </CardBody>
             </Card>
           </div>
@@ -71,7 +74,10 @@ export default function CustomCard() {
                 <CardText>
                   Offer Price : 999 INR/Person
                 </CardText>
-                <a href="https://wa.me/919330234144?text=Its%20great%20to%20know%20about%20goascubadiving.in.Please%20let%20me%20know%20further%20details%20about%20scuba%20diving%20in%20north%20goa%20and%20booking%20process." className="btn btn-primary">More Details</a>
+                <Link to="/WaterActivity" className="btn btn-primary">More Details</Link>
+               
+
+               
               </CardBody>
             </Card>
           </div>

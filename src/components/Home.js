@@ -7,7 +7,7 @@ import Whatsapp from './Whatsapp';
 export default function Home() {
   return (
     <>
-     <br/>
+     
 		<CustomCarousel/>
 	    <Whatsapp/>
 		<CustomCard />
